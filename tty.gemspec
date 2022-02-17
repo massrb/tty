@@ -27,7 +27,7 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
   spec.required_ruby_version = ">= 2.3.0"
 
-  spec.add_dependency "thor", "~> 1.0"
+  spec.add_dependency "thor", "~> 1.2.0"
   spec.add_dependency "bundler", "~> 2.0"
   spec.add_dependency "tty-file", "~> 0.10"
   spec.add_dependency "tty-which", "~> 0.4"
